@@ -1,0 +1,59 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/* nav bar  */
+
+.menu li {
+    width: 100%;
+}
+
+.menu li a {
+    transition: .5s cubic-bezier(.75, -0.54, .43, 1.47);
+}
+.menu li a i {
+    transform: translateY(11px)scale(1.2);
+    transform: .5s;
+   
+}
+
+.menu li a span {
+    transform: translateY(27);
+    opacity: 0;
+    transform: .5s;  
+}
+.menu li a:hover {
+    transition: .5s cubic-bezier(.75, -0.54, .43, 1.47);
+}
+
+.menu li a:hover  i  {
+    transform: translateY(2px);
+    opacity: 1;
+    transition: .5s cubic-bezier(.75, -0.54, .43, 1.47);
+}
+.menu li a:hover  span {
+    transform: translateY(2px);
+    opacity: 1;
+    transition: .5s cubic-bezier(.75, -0.54, .43, 1.47);
+}
+
+
+.pic {
+    width: 35%;
+    position: absolute;
+    left: 18%;
+    top: -212px;
+    
+    -webkit-animation:spin 37s linear infinite;
+    -moz-animation:spin 37s linear infinite;
+    animation:spin 37s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+.pt1{
+    position: absolute;
+    left: 26%;
+    top: -326px;
+    width: 56%;
+
+}
