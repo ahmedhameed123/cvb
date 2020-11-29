@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/cvb/static/css/main.18eb2284.chunk.css",
+    "main.js": "/cvb/static/js/main.87a1a0ca.chunk.js",
+    "main.js.map": "/cvb/static/js/main.87a1a0ca.chunk.js.map",
+    "runtime-main.js": "/cvb/static/js/runtime-main.25295881.js",
+    "runtime-main.js.map": "/cvb/static/js/runtime-main.25295881.js.map",
+    "static/css/2.f56498e6.chunk.css": "/cvb/static/css/2.f56498e6.chunk.css",
+    "static/js/2.1502acd3.chunk.js": "/cvb/static/js/2.1502acd3.chunk.js",
+    "static/js/2.1502acd3.chunk.js.map": "/cvb/static/js/2.1502acd3.chunk.js.map",
+    "index.html": "/cvb/index.html",
+    "precache-manifest.fd5b764a823f4552625aedbb92a8fd7a.js": "/cvb/precache-manifest.fd5b764a823f4552625aedbb92a8fd7a.js",
+    "service-worker.js": "/cvb/service-worker.js",
+    "static/css/2.f56498e6.chunk.css.map": "/cvb/static/css/2.f56498e6.chunk.css.map",
+    "static/css/main.18eb2284.chunk.css.map": "/cvb/static/css/main.18eb2284.chunk.css.map",
+    "static/js/2.1502acd3.chunk.js.LICENSE.txt": "/cvb/static/js/2.1502acd3.chunk.js.LICENSE.txt",
+    "static/media/about-01.jpg": "/cvb/static/media/about-01.ae7b1917.jpg",
+    "static/media/blog.jpg": "/cvb/static/media/blog.87d2b2fc.jpg",
+    "static/media/facebook.svg": "/cvb/static/media/facebook.4c5d1ef2.svg",
+    "static/media/folder.svg": "/cvb/static/media/folder.d40ac842.svg",
+    "static/media/github.svg": "/cvb/static/media/github.e4f2d6b0.svg",
+    "static/media/happy.svg": "/cvb/static/media/happy.bf5f1216.svg",
+    "static/media/idea.svg": "/cvb/static/media/idea.18c4f397.svg",
+    "static/media/linkedin.svg": "/cvb/static/media/linkedin.1fd04ed6.svg",
+    "static/media/location.svg": "/cvb/static/media/location.805d8406.svg",
+    "static/media/medal.svg": "/cvb/static/media/medal.9e2607ba.svg",
+    "static/media/my1.jpg": "/cvb/static/media/my1.8c56497f.jpg",
+    "static/media/phone.svg": "/cvb/static/media/phone.2299678a.svg",
+    "static/media/project.svg": "/cvb/static/media/project.9bda81de.svg",
+    "static/media/send.svg": "/cvb/static/media/send.296cd701.svg",
+    "static/media/slick-theme.css": "/cvb/static/media/slick.f97e3bbf.svg",
+    "static/media/twitter.svg": "/cvb/static/media/twitter.4f41a984.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25295881.js",
+    "static/css/2.f56498e6.chunk.css",
+    "static/js/2.1502acd3.chunk.js",
+    "static/css/main.18eb2284.chunk.css",
+    "static/js/main.87a1a0ca.chunk.js"
+  ]
+}
